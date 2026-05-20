@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "面试评价",
+  "usingComponents": {
+    "gradient-button": "../../components/GradientButton",
+    "circle-progress": "../../components/CircleProgress"
+  }
+}

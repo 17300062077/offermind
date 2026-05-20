@@ -1,0 +1,1 @@
+<view class="circle-progress data-v-05449b49"><view class="circle-bg data-v-05449b49"></view><view class="circle-progress-ring data-v-05449b49" style="{{a}}"></view><view class="circle-content data-v-05449b49"><view class="circle-value data-v-05449b49" style="{{'color:' + c}}">{{b}}</view><view class="circle-label data-v-05449b49">{{d}}</view></view></view>

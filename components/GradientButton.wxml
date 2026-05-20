@@ -1,0 +1,1 @@
+<view class="{{['gradient-btn', 'data-v-61fac602', c && 'btn-disabled', d && 'btn-loading']}}" style="{{e}}" bindtap="{{f}}"><view wx:if="{{a}}" class="loading-spinner data-v-61fac602"><view class="spinner data-v-61fac602"></view></view><text wx:else class="btn-text data-v-61fac602">{{b}}</text></view>

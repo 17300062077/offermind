@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/mode/mode",
+    "pages/interview/interview",
+    "pages/result/result",
+    "pages/resume/resume",
+    "pages/profile/profile"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "AI面试助手",
+    "navigationBarBackgroundColor": "#0a0a0f",
+    "backgroundColor": "#0a0a0f",
+    "backgroundColorTop": "#0a0a0f",
+    "backgroundColorBottom": "#0a0a0f"
+  },
+  "tabBar": {
+    "color": "#8a8a9a",
+    "selectedColor": "#3b82f6",
+    "backgroundColor": "#12121a",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/icons/home.png",
+        "selectedIconPath": "static/icons/home-active.png"
+      },
+      {
+        "pagePath": "pages/resume/resume",
+        "text": "简历",
+        "iconPath": "static/icons/target.png",
+        "selectedIconPath": "static/icons/target-active.png"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "我的",
+        "iconPath": "static/icons/user.png",
+        "selectedIconPath": "static/icons/user-active.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
